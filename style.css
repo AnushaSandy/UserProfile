@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+    text-align: center;
+    font-style: oblique;
+}
+
+division1{
+    align-items: center;
+    width: 350px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+division2{
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    width: 350px;
+    height: 400px;
+
+}
+
+img{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    height: 350px;
+}
+
+division3{
+    text-align: center;
+    background-color: black;
+    height: 350px;
+    width: 360px;
+    color: aliceblue;
+}
+
+fieldset{
+    width: fit-content;
+    margin-bottom: 0.5em;
+    border: 1px;
+    border-left: 0.5px;
+    border-right: 0.5px;
+    border: thin;
+}
+
+code{
+    display: block;
+}
